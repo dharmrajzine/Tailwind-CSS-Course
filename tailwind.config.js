@@ -3,7 +3,7 @@ module.exports = {
   content: ["./index.html"],
   theme: {
     extend: {
-      color: {
+      colors: {
         primary: "#3238f2",
       },
       fontFamily: {
